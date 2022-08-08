@@ -39,3 +39,11 @@ a:hover {
 #inst {
     background-image: linear-gradient(to right, red, purple 65%);
 }
+
+#twitter {
+    background-color: rgb(26, 140, 216);
+}
+
+#face {
+    background-color: rgb(68, 98, 161);
+}
